@@ -12,4 +12,7 @@ My team and I completed the project when we participated in the Samsung Innovati
 # Operating System we use
  - Linux
 
+# Contact us
+Contact me via email: truongthuydung109@gmail.com
+
 
